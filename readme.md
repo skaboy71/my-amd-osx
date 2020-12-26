@@ -22,7 +22,7 @@ Feel free to grab anything that will help!
 | **LAN:**     | Onboard Intel Realtek® RTL8125 2.5 Gbps                      |
 | **Sound:**   | Onboard Realtek® ALC1220                                     |
 
-## **What's working**:
+## **What's working/not working**:
 
 **OSX Catalina 10.15.7**
 Opencore 6.4
